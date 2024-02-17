@@ -77,6 +77,7 @@ File created with success!
 cotacao.txt
 
 # you may delete this file in case of another test
+# you can use the extension SQLite Viewer and SQLite to access bid.sqlite database in server/bid.sqlite
 ```
 ## Author
 Made with love by Renata Borges 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/renataborgestech)
